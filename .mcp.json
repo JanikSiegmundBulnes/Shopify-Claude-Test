@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "bazaar": {
+      "command": "/Users/janiksiegmund/Coding Projects/Vibe coded/Shopify Harness/node_modules/.bin/tsx",
+      "args": ["/Users/janiksiegmund/Coding Projects/Vibe coded/Shopify Harness/mcp/server.ts"]
+    }
+  }
+}
